@@ -1,0 +1,11 @@
+D:\OneDrive\palekto\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programování\okna-mdi\okna-mdi\bin\Debug\okna-mdi.exe.config
+D:\OneDrive\palekto\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programování\okna-mdi\okna-mdi\bin\Debug\okna-mdi.exe
+D:\OneDrive\palekto\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programování\okna-mdi\okna-mdi\bin\Debug\okna-mdi.pdb
+D:\OneDrive\palekto\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programování\okna-mdi\okna-mdi\obj\Debug\okna-mdi.csproj.AssemblyReference.cache
+D:\OneDrive\palekto\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programování\okna-mdi\okna-mdi\obj\Debug\okna_mdi.Form1.resources
+D:\OneDrive\palekto\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programování\okna-mdi\okna-mdi\obj\Debug\okna_mdi.Form2.resources
+D:\OneDrive\palekto\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programování\okna-mdi\okna-mdi\obj\Debug\okna_mdi.Properties.Resources.resources
+D:\OneDrive\palekto\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programování\okna-mdi\okna-mdi\obj\Debug\okna-mdi.csproj.GenerateResource.cache
+D:\OneDrive\palekto\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programování\okna-mdi\okna-mdi\obj\Debug\okna-mdi.csproj.CoreCompileInputs.cache
+D:\OneDrive\palekto\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programování\okna-mdi\okna-mdi\obj\Debug\okna-mdi.exe
+D:\OneDrive\palekto\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programování\okna-mdi\okna-mdi\obj\Debug\okna-mdi.pdb

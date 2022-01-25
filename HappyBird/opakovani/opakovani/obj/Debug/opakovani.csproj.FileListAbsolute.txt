@@ -1,0 +1,34 @@
+C:\Users\palekto\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programování\opakovani\opakovani\bin\Debug\opakovani.exe.config
+C:\Users\palekto\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programování\opakovani\opakovani\bin\Debug\opakovani.exe
+C:\Users\palekto\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programování\opakovani\opakovani\bin\Debug\opakovani.pdb
+C:\Users\palekto\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programování\opakovani\opakovani\obj\Debug\opakovani.csprojAssemblyReference.cache
+C:\Users\palekto\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programování\opakovani\opakovani\obj\Debug\opakovani.Form1.resources
+C:\Users\palekto\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programování\opakovani\opakovani\obj\Debug\opakovani.Properties.Resources.resources
+C:\Users\palekto\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programování\opakovani\opakovani\obj\Debug\opakovani.csproj.GenerateResource.cache
+C:\Users\palekto\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programování\opakovani\opakovani\obj\Debug\opakovani.csproj.CoreCompileInputs.cache
+C:\Users\palekto\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programování\opakovani\opakovani\obj\Debug\opakovani.exe
+C:\Users\palekto\OneDrive - Střední průmyslová škola elektrotechnická, Praha 10, V Úžlabině 320\Programování\opakovani\opakovani\obj\Debug\opakovani.pdb
+C:\Users\Tomas\Desktop\opakovani\opakovani\bin\Debug\opakovani.exe.config
+C:\Users\Tomas\Desktop\opakovani\opakovani\bin\Debug\opakovani.exe
+C:\Users\Tomas\Desktop\opakovani\opakovani\bin\Debug\opakovani.pdb
+C:\Users\Tomas\Desktop\opakovani\opakovani\obj\Debug\opakovani.csproj.AssemblyReference.cache
+C:\Users\Tomas\Desktop\opakovani\opakovani\obj\Debug\opakovani.Form1.resources
+C:\Users\Tomas\Desktop\opakovani\opakovani\obj\Debug\opakovani.Properties.Resources.resources
+C:\Users\Tomas\Desktop\opakovani\opakovani\obj\Debug\opakovani.csproj.GenerateResource.cache
+C:\Users\Tomas\Desktop\opakovani\opakovani\obj\Debug\opakovani.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Desktop\opakovani\opakovani\obj\Debug\opakovani.exe
+C:\Users\Tomas\Desktop\opakovani\opakovani\obj\Debug\opakovani.pdb
+C:\Users\Tomas\Desktop\opakovani\opakovani\obj\Debug\opakovani.Vysledky.resources
+C:\Users\Tomas\Desktop\opakovani\opakovani\obj\Debug\opakovani.Rekordy.resources
+C:\Users\palekto\Downloads\HappyBird - Pálek\opakovani\opakovani\bin\Debug\opakovani.exe.config
+C:\Users\palekto\Downloads\HappyBird - Pálek\opakovani\opakovani\bin\Debug\opakovani.exe
+C:\Users\palekto\Downloads\HappyBird - Pálek\opakovani\opakovani\bin\Debug\opakovani.pdb
+C:\Users\palekto\Downloads\HappyBird - Pálek\opakovani\opakovani\obj\Debug\opakovani.csproj.AssemblyReference.cache
+C:\Users\palekto\Downloads\HappyBird - Pálek\opakovani\opakovani\obj\Debug\opakovani.Form1.resources
+C:\Users\palekto\Downloads\HappyBird - Pálek\opakovani\opakovani\obj\Debug\opakovani.Properties.Resources.resources
+C:\Users\palekto\Downloads\HappyBird - Pálek\opakovani\opakovani\obj\Debug\opakovani.Rekordy.resources
+C:\Users\palekto\Downloads\HappyBird - Pálek\opakovani\opakovani\obj\Debug\opakovani.Vysledky.resources
+C:\Users\palekto\Downloads\HappyBird - Pálek\opakovani\opakovani\obj\Debug\opakovani.csproj.GenerateResource.cache
+C:\Users\palekto\Downloads\HappyBird - Pálek\opakovani\opakovani\obj\Debug\opakovani.csproj.CoreCompileInputs.cache
+C:\Users\palekto\Downloads\HappyBird - Pálek\opakovani\opakovani\obj\Debug\opakovani.exe
+C:\Users\palekto\Downloads\HappyBird - Pálek\opakovani\opakovani\obj\Debug\opakovani.pdb
